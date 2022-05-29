@@ -1,7 +1,12 @@
 # horiseon-site
+Horiseon Website
 
 ## Purpose
-Horiseon - A website that offers successful marketing solutions to the world.
+Horiseon - A company that offers successful marketing solutions to the world.
+Services:
+  - Search Engine Optimization
+  - Online Reputation management
+  - Social Media Marketing
 
 ## Built With
 * HTML

@@ -1,7 +1,7 @@
 # horiseon-site
 
 ## Purpose
-Horiseon - A website that offers successful marketing solutions to the world
+Horiseon - A website that offers successful marketing solutions to the world.
 
 ## Built With
 * HTML

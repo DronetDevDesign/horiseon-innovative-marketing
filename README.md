@@ -3,6 +3,7 @@ Horiseon Website
 
 ## Purpose
 Horiseon - A company that offers successful marketing solutions to the world.
+
 Services:
   - Search Engine Optimization
   - Online Reputation management

@@ -1,5 +1,5 @@
 # horiseon-site
-Horiseon Website
+Horiseon Marketing Company
 
 ## Purpose
 Horiseon - A company that offers successful marketing solutions to the world.

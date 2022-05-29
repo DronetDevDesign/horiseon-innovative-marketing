@@ -14,7 +14,7 @@ Services:
 * CSS
 
 ## Website
-https://dronetdevdesign.github.io/horiseon-site/
+https://dronetdevdesign.github.io/horiseon-marketing-innovations/
 
 ## Contribution
 Made with ❤️ by Ron Dronet

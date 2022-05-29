@@ -1,8 +1,8 @@
-# horiseon-marketing-website
-Horiseon Marketing Company
+# horiseon-innovative-marketing
+Horiseon Innovative Marketing Company
 
 ## Purpose
-Horiseon - A company that offers successful marketing solutions to the world.
+Horiseon - An company that offers successful innovative marketing solutions to the world.
 
 Services:
   - Search Engine Optimization

@@ -8,7 +8,7 @@ A website that offers Marketing to the world without boundaries.
 * CSS
 
 ## Website
-(https://dronetdevdesign.github.io/horiseon-site/)
+https://dronetdevdesign.github.io/horiseon-site/
 
 ## Contribution
 Made with ❤️ by Ron Dronet

@@ -1,4 +1,4 @@
-# horiseon-site
+# horiseon-marketing-website
 Horiseon Marketing Company
 
 ## Purpose
